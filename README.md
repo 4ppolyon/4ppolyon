@@ -1,6 +1,9 @@
 # 💫 About Me:
-💡 Ph.D. researcher at LISN: AI, language models & human-AI interaction.<br>🎓 MSc in Informatics (MOSIG, AI & Data Science), Université Grenoble Alpes.<br>🔎 Focus: LLMs, speech interaction, assistive robotics, ethical AI.<br>🛠️ Tech: Python, PyTorch, TensorFlow, Hugging Face, Git, CI/CD, LaTeX.
+I hold a Master of Science in Informatics (MOSIG) from Université Grenoble Alpes, with a strong background in computer science, mathematics, and applied mathematics. I am currently pursuing a Ph.D. at the Laboratoire Interdisciplinaire des Sciences du Numérique (LISN), where my research focuses on the evaluation and emotional adaptation of large language models (LLMs) in spoken interactions, with applications in assistive robotics for elderly care and associated ethical challenges.
 
+My academic and research interests lie in artificial intelligence, with a particular emphasis on large language models, their applications, and their evolution. I have practical experience in software development and AI research, working with languages such as Python, C/C++, JavaScript, and Java, as well as frameworks like PyTorch, TensorFlow, and Hugging Face Transformers.
+
+Beyond my research, I am motivated to explore interdisciplinary approaches that combine technical, human-centered, and ethical perspectives on AI.
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:romalves70@gmail.com) 
